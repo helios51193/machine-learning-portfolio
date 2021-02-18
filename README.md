@@ -21,3 +21,23 @@ You work for a consumer finance company which specialises in lending various typ
 #### Objective
 
 The main objective of the case study is to perform EDA the loan dataset and find out potential risk factors that may lead to defaulting a loan.
+
+## Project 3 - Car Price Prediction using Linear Regression
+
+#### Problem Statement
+
+A Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts. 
+
+#### Objective
+
+We are given a dataset containing information about US cars .We have to identify important features using EDA and create a model using linear regression that will predict the car prices for the company.
+
+## Project 4 - House Price Prediction using Regularized Regression
+
+#### Problem Statement
+
+A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. 
+
+### Objective
+
+The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
