@@ -2,7 +2,7 @@
 
 portfolio includes projects that i have done as a part of academic course and for self learning.
 
-## 1. Project 1 - Investment Analysis
+## Project 1 - Investment Analysis
 
 #### Problem Statement
 Spark Funds, an asset management company, wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively.
@@ -13,7 +13,7 @@ The main objective of the problem is to analyse the data and give answers to the
 * Which Country and Sector will be suitable for investment ?
 * Selecting top 3 English-speaking Countries for the above selected countries.
 
-## 2. Project 2 - Lending Club Case Study
+## Project 2 - Lending Club Case Study
 
 #### Problem Statement
 You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. 
@@ -41,3 +41,14 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 ### Objective
 
 The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
+
+## Project 5 - Telecom Churn Case Study
+
+#### Problem Statement
+
+In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
+
+### Objective
+Main objectives are as follows.
+1. Identify the high value customers.In this case study, high-value customer is based on revenue i.e. the top 20% customers which generate the highest revenue.
+2. Identify the churn factors and build a model to classify whether a customer is a potential churn customer.
