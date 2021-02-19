@@ -52,3 +52,30 @@ In the telecom industry, customers are able to choose from multiple service prov
 Main objectives are as follows.
 1. Identify the high value customers.In this case study, high-value customer is based on revenue i.e. the top 20% customers which generate the highest revenue.
 2. Identify the churn factors and build a model to classify whether a customer is a potential churn customer.
+
+## Project 6 - Vitterbi Algorithm
+
+#### Problem Statement
+
+You have learnt to build your own HMM-based POS tagger and implement the Viterbi algorithm using the Penn Treebank training corpus. The vanilla Viterbi algorithm we had written had resulted in ~87% accuracy. The approx. 13% loss of accuracy was majorly due to the fact that when the algorithm encountered an unknown word (i.e. not present in the training set, such as 'Twitter'), it assigned an incorrect tag arbitrarily. This is because, for unknown words, the emission probabilities for all candidate tags are 0, so the algorithm arbitrarily chooses (the first) tag.
+
+#### Objective 
+
+Modify the vitterbi algorithm to compensate the 13% loss of the accuracy due to unknown words.Explore atleast two approaches to solve the problem of unknown words.
+
+## Project 7 - Chatbot with Rasa
+
+#### Problem Statement
+
+An Indian startup named 'Foodie' wants to build a conversational bot (chatbot) which can help users discover restaurants across several Indian cities. You have been hired as the lead data scientist for creating this product.
+
+The main purpose of the bot is to help users discover restaurants quickly and efficiently and to provide a good restaurant discovery experience. The project brief provided to you is as follows.
+
+#### Objective
+
+Build and train a chat bot using the open source conversation AI Rasa.The bot should give recommendations of restaurants bases on the following questions.
+1. City 
+2. Cuisine 
+3. Budget for 2.
+
+The Bot should also be able to send top 10 restaurant to the person via email.
