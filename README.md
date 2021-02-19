@@ -79,3 +79,23 @@ Build and train a chat bot using the open source conversation AI Rasa.The bot sh
 3. Budget for 2.
 
 The Bot should also be able to send top 10 restaurant to the person via email.
+
+## Project 7 - Neural Network using Numpy
+
+#### Problem statement
+
+In this project, you will build a complete neural network using Numpy. You will implement all the steps required to build a network - feedforward, loss computation, backpropagation, weight updates etc.
+
+#### Objective
+
+The project is divided in to 6 parts.
+
+1.Data Preparation
+2.Feedforward
+3.Loss Computation
+4.Backpropogation
+5.Parameter updates
+6.Model Training and prediction.
+
+We have to fill the each part with the appropriate code and formulas.
+
