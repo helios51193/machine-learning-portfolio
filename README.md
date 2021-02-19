@@ -80,7 +80,7 @@ Build and train a chat bot using the open source conversation AI Rasa.The bot sh
 
 The Bot should also be able to send top 10 restaurant to the person via email.
 
-## Project 7 - Neural Network using Numpy
+## Project 8 - Neural Network using Numpy
 
 #### Problem statement
 
