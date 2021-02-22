@@ -99,3 +99,36 @@ The project is divided in to 6 parts.
 
 We have to fill the each part with the appropriate code and formulas.
 
+
+## Project 9 - Gesture Recognition using CNN and RNN
+
+#### Problem Statement
+Imagine you are working as a data scientist at a home electronics company which manufactures state of the art **smart televisions**. You want to develop a cool feature in the smart-TV that can **recognise five different gestures** performed by the user which will help users control the TV without using a remote
+
+#### Objective
+Create and train a model to recognize 5 types of gestures using the following two types of Neural Network
+1. 3D CNN
+2. CNN + RNN
+
+## Project 10 - Numerical Tic-Tac-Toc using Q-learning
+
+#### Problem Statement
+One of the most popular and enduring games of all time is **[Tic-Tac-Toe](https://www.youtube.com/watch?v=5SdW0_wTX5c)**. Because of its familiarity, this game is often used as a starting example to mathematically analyze a decision-making process. Its brevity makes it a perfect game to illustrate the rewards of thinking ahead and learning the consequence of each decision.
+Numerical tic-tac-toe is a variant of the basic tic-tac-toe. Instead of X’s and O’s, the numbers 1 to 9 are used. In the 3x3 grid, numbers 1 to 9 are filled, with one number in each cell. The first player plays with the odd numbers, the second player plays with the even numbers, i.e. player 1 can enter only an odd number in the cell while player 2 can enter an even number in one of the remaining cells.
+
+#### Objective
+Train an agent to play numerical tic-tac-toe using Q-learning algorithm. Rules of the game is as follows
+
+1.  The game will be played on a 3x3 grid (9 cells) using numbers from 1 to 9. Each number can be used exactly once in the entire grid.
+2.  There are two players: one is the Reinforcement Learning (RL) agent and other is the environment.
+3.  The RL agent is given odd numbers {1, 3, 5, 7, 9} and the environment is given the even numbers {2, 4, 6, 8}  
+4.  Each of them takes a turn. The player with odd numbers always goes first.
+5.  At each round, a player puts one unused number on a blank spot.
+6.  The objective is to make 15 points in a row, column or a diagonal. The player can use the opponent's numbers in the grid to make 15.
+7.  The game terminates when any one of the players makes 15.
+
+The agent will get 10 points if it wins,0 if the game draws.-1 for every move made.
+
+
+
+
