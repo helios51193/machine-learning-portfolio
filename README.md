@@ -129,6 +129,14 @@ Train an agent to play numerical tic-tac-toe using Q-learning algorithm. Rules o
 
 The agent will get 10 points if it wins,0 if the game draws.-1 for every move made.
 
+## Project 11 - RL-based system for assisting cab drivers
+
+#### Problem Statement
+You are hired as a Sr. Machine Learning Er. at SuperCabs, a leading app-based cab provider in a large Indian metro city. In this highly competitive industry, **retention** **of good cab drivers** is a crucial business driver, and you believe that a sound **RL-based system for assisting cab drivers** can potentially retain and attract new cab drivers.
+
+#### Objective
+
+Train a vanilla DQN network which helps cab drivers to choose the 'right' rides for maximizing profit.
 
 
 
