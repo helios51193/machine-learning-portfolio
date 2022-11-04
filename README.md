@@ -146,5 +146,15 @@ In 2022, the world may face a global food crisis. This dataset includes informat
 #### Objective
 Objective is to find trends in the dataset 
 
+## Project 13 - Bajaj Allianz Hackthon
+
+https://www.kaggle.com/competitions/allianz-hackathon
+
+#### Objective
+
+1. Train a model to predict the policy preferences of the customer.
+2. Identify customer segments based on their personas and different market factors based on the decision
+
+
 
 
