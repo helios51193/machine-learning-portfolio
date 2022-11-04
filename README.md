@@ -138,5 +138,13 @@ You are hired as a Sr. Machine Learning Er. at SuperCabs, a leading app-based ca
 
 Train a vanilla DQN network which helps cab drivers to choose the 'right' rides for maximizing profit.
 
+## Project 12 - EDA on Food Prices
+
+#### Problem Statement
+In 2022, the world may face a global food crisis. This dataset includes information on food prices, meat prices, dairy prices, cereal prices, oil prices, and sugar prices. This data is of utmost importance to researchers as it will help inform their work on finding solutions to this potential crisis. With this data, we can better understand the factors that may contribute to the crisis and work towards finding solutions that could help prevent or mitigate its effects.
+
+#### Objective
+Objective is to find trends in the dataset 
+
 
 
